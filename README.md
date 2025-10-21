@@ -32,7 +32,7 @@ Visualised all the preceding results.
 **Step 7: Conclusion**  
 Conclusion is summarised below:  
 
-##Key Findings  
+**Key Findings**  
   
   **Airlines with the highest average delays (Top 3):**  
     1. Allegiant Air  
